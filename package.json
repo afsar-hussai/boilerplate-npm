@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Mohd Afsar Hussain",
 	"description": "An Awsome Project to communicate",
+	"keywords": ["words","around","freecodecamp","awsome"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
